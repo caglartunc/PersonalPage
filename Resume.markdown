@@ -4,4 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-<embed src="../assets/repo/CaglarTunc-cv.pdf?embedded=true&url=http://example.com/the.pdf" width="800" height="700">
+Please click <a target="_blank" class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="../CaglarTunc-cv.pdf">here</a> for my most recently updated CV.
+<!--        
+<a href="../assets/repo/CaglarTunc-cv.pdf" target="_blank"></a>
+-->

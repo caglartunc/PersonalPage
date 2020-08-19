@@ -39,6 +39,19 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+    # Optional, the default name of the index file for generated pages (e.g. 'index.html')
+    # Without file extension
+
+#pagination:
+  #indexpage: 'index'
+
+############################################################
+
+### Phantom settings
+#footer_text: '© 2018 Jami Gibbs'
+#admin_name: 'Jami Gibbs'
+google_analytics: "UA-175323907-1" # Update with your own tracking ID
+#enable_contact: false
 
 
 # Exclude from processing.
