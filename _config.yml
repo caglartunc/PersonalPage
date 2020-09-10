@@ -20,7 +20,7 @@
 
 title: Caglar Tunc
 email: ct1909[at]nyu.edu
-#description: >- # this means to ignore newlines until "baseurl:"
+description: This is the personal website of Caglar Tunc. You can email me at ct1909[at]nyu.edu for any questions.
   #This is the personal website of Caglar Tunc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://caglartunc.com" # the base hostname & protocol for your site, e.g. http://example.com
