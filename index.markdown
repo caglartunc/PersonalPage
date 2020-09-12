@@ -3,9 +3,9 @@ layout: page
 title: Home
 #permalink: /
 ---
-<br />
-<br />
 <div style="text-align:center"><img src="assets/images/caglarphoto1.jpg" width="400" style="text-align:center"></div>
+<br />
+<br />
 
 Hi! I am a Ph.D. Candidate in the Department of Electrical and Computer Engineering at NYU Tandon School of Engineering, under the supervision of Prof. [Shivendra Panwar](https://engineering.nyu.edu/faculty/shivendra-panwar). I received my B.S. in Electrical and Computer Engineering from Bilkent University, Ankara, Turkey, in 2013; and my M.S. degree from the same department in 2016, under the supervision of Prof. [Nail Akar](http://kilyos.ee.bilkent.edu.tr/~akar/).
 
