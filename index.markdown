@@ -1,6 +1,6 @@
 ---
 layout: page
-<center>title: Home
+title: <center>Home
 #permalink: /
 ---
 <div style="text-align:center"><img src="assets/images/caglarphoto1.jpg" width="500" style="text-align:center"></div>
