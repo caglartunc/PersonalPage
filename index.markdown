@@ -1,6 +1,6 @@
 ---
 layout: page
-title: :Home:
+title: 
 #permalink: /
 ---
 <div style="text-align:center"><img src="assets/images/caglarphoto2.jpg" width="500" style="text-align:center"></div>
@@ -12,5 +12,6 @@ My research interests include design and analysis of low-latency future cellular
 
 I have spent three summers (2017, 2018 and 2019) collaborating with Futurewei Technologies, where we have investigated machine learning-based methods for improving the performance of link adaptation and carrier aggregation in LTE and 5G NR. I have also collaborated with [Samsung Research America (SRA)](https://www.sra.samsung.com/life-at-sra/) during the Summer of 2020 on electric and magnetic fields (EMF)-based power control methods for 5G NR.
 
-[<img align="right" src="assets/images/scholaricon.png" width="25">](https://scholar.google.com/citations?user=BNw1IM8AAAAJ&hl=en)
-[<img align="right" src="assets/images/linkedinicon.png" width="25">](https://www.linkedin.com/in/caglar-tunc-6010ab59/)
+[<img align="right" src="assets/images/githubicon.png" height="25">](https://github.com/caglartunc)
+[<img align="right" src="assets/images/linkedinicon.png" height="25">](https://www.linkedin.com/in/caglar-tunc-6010ab59/)
+[<img align="right" src="assets/images/scholaricon.png" height="25">](https://scholar.google.com/citations?user=BNw1IM8AAAAJ&hl=en)
