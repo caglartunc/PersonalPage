@@ -20,7 +20,7 @@
 
 title: Caglar Tunc
 email: caglar.tunc[at]nyu.edu
-description: This is the personal website of Caglar Tunc. You can email me at caglar.tunc[at]nyu.edu for any questions.
+#description: This is the personal website of Caglar Tunc. You can email me at caglar.tunc[at]nyu.edu for any questions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://caglartunc.com" # the base hostname & protocol for your site, e.g. http://example.com
 #linkedin_username: caglar-tunc-6010ab59
