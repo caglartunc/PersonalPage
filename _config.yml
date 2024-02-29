@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Caglar Tunc
-email: ct777p[at]att.com
+title: Çağlar Tunç
+email: caglar[dot]tunc[at]turkcell[dot]com[dot]tr
 #description: This is the personal website of Caglar Tunc. You can email me at caglar.tunc[at]nyu.edu for any questions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://caglartunc.com" # the base hostname & protocol for your site, e.g. http://example.com
